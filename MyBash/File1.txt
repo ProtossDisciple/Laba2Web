@@ -1,0 +1,1 @@
+/mingw64/bin:/usr/bin:/c/Users/Никита/bin:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/Program Files/Java/jdk-12.0.2/bin:/cmd:/c/Users/Никита/AppData/Local/Microsoft/WindowsApps:/c/Users/Никита/AppData/Local/Programs/Microsoft VS Code/bin:/c/Program Files/JetBrains/PyCharm Community Edition 2019.2.3/bin
